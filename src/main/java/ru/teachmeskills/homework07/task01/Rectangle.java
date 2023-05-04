@@ -1,4 +1,4 @@
-package ru.teachmeskills.homework07;
+package ru.teachmeskills.homework07.task01;
 
 public class Rectangle extends Figure {
     private double firstSide;

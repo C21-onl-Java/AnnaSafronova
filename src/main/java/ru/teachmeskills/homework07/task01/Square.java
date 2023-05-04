@@ -1,4 +1,4 @@
-package ru.teachmeskills.homework07;
+package ru.teachmeskills.homework07.task01;
 
 public class Square extends Figure {
     private double side;
@@ -14,5 +14,4 @@ public class Square extends Figure {
     public double area() {
         return 2 * side;
     }
-
 }
