@@ -16,4 +16,5 @@ public class Rectangle extends Figure {
     public double area() {
         return firstSide * secondSide;
     }
+
 }

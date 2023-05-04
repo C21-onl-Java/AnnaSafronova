@@ -6,4 +6,5 @@ public class Main {
     Square square = new Square(5);
     figures[0] = new Square(5);
     figures[1] = square;
+
 }

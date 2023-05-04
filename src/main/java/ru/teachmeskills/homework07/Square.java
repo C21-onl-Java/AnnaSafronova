@@ -14,4 +14,5 @@ public class Square extends Figure {
     public double area() {
         return 2 * side;
     }
+
 }
